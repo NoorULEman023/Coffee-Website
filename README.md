@@ -2,15 +2,15 @@
 
 A fully responsive Coffee Shop landing page built with HTML, CSS, and JavaScript.
 
-> 💡 Inspired by a design found on YouTube — recreated and customized for learning purposes.
+>  Inspired by a design found on YouTube — recreated and customized for learning purposes.
 
 ## 🔗 Live Demo
 [Click here to view the website](https://NoorULEman023.github.io/Coffee-Website)
 
-## 📸 Preview
+##  Preview
 ![Coffee Website Preview](coffee_homepage.png)
 
-## ✨ Features
+##  Features
 - ✅ Responsive Design (Mobile, Tablet, Desktop)
 - ✅ Fixed Navigation Bar with active link highlight
 - ✅ Hero Section with floating animation
@@ -68,9 +68,9 @@ Coffee-Website/
 ├── user-3.jpg
 
 └── user-4.jpg
-## 👩‍💻 Author
+##  Author
 **Noor UL Eman**
 - GitHub: [@NoorULEman023](https://github.com/NoorULEman023)
 
-## 📝 Credits
+##  Credits
 Design inspired by a YouTube tutorial — all code written and customized by me.
